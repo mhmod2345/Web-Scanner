@@ -1,0 +1,388 @@
+# ========================
+# Critical settings files
+# ========================
+/.env
+/.env.local
+/.env.production
+/.env.development
+/.env.test
+/.env.example
+/wp-config.php
+/config.php
+/configuration.php
+/settings.php
+/config.inc.php
+/config.json
+/config.yml
+/config.xml
+/application.properties
+/appsettings.json
+/web.config
+/.htaccess
+/.htpasswd
+/robots.txt
+/security.txt
+/crossdomain.xml
+/client_secrets.json
+/credentials.json
+/serviceAccount.json
+
+# ========================
+# Backup files
+# ========================
+/backup.zip
+/backup.tar
+/backup.tar.gz
+/backup.sql
+/database.sql
+/dump.sql
+/site.tar.gz
+/www.zip
+/backup_2023.zip
+/backup_2022.zip
+/backup_2021.zip
+/full_backup.zip
+/db_backup.sql
+/db_dump.sql
+/backup_2023-12-01.zip
+
+# ========================
+# Version control systems
+# ========================
+/.git/HEAD
+/.git/config
+/.gitignore
+/.svn/entries
+/.hg/store
+/.bzr/README
+/.git/logs/HEAD
+/.git/index
+/.git/refs/stash
+/.git/config
+/.svn/wc.db
+/.svn/entries
+
+# ========================
+#Control and management panels
+# ========================
+/admin
+/administrator
+/wp-admin
+/wp-login.php
+/login
+/panel
+/cpanel
+/controlpanel
+/dashboard
+/manager
+/webadmin
+/sysadmin
+/root
+/backend
+/console
+/admincp
+/user/login
+/user/register
+/admin/login
+/adminer.php
+/phpmyadmin
+/mysqladmin
+
+# ========================
+# Log files
+# ========================
+/error.log
+/access.log
+/debug.log
+/server.log
+/logs.txt
+/install.log
+/storage/logs/laravel.log
+/var/log/nginx/error.log
+/var/log/apache2/error.log
+/log/application.log
+/tmp/errors.log
+/error_log
+/php_errors.log
+/debug.log
+
+# ========================
+# Development files
+# ========================
+/package.json
+/composer.json
+/composer.lock
+/yarn.lock
+/Gemfile
+/Gemfile.lock
+/requirements.txt
+/Procfile
+/README.md
+/CHANGELOG.txt
+/LICENSE.txt
+/README.txt
+/phpinfo.php
+/info.php
+/test.php
+/example.php
+/demo.php
+
+# ========================
+# Databases
+# ========================
+/db.sqlite3
+/database.db
+/data.db
+/users.db
+/production.db
+/dev.db
+/test.db
+/sqlite.db
+/app.db
+/site.db
+/db.mdb
+/database.mdb
+/data.mdb
+
+# ========================
+# Common CMS files
+# ========================
+/wp-content/uploads/
+/wp-includes/
+/wp-mail.php
+/xmlrpc.php
+/user/login
+/user/register
+/install.php
+/upgrade.php
+/joomla/administrator
+/joomla/logs
+/drupal/install.php
+/magento/admin
+/wordpress/wp-admin
+/wordpress/wp-login.php
+
+# ========================
+# IDE files
+# ========================
+/.idea/workspace.xml
+/.vscode/settings.json
+/.project
+/.settings/org.eclipse.core.resources.prefs
+/.classpath
+/.DS_Store
+/Thumbs.db
+
+# ========================
+# API وخدمات الويب
+# ========================
+/api/
+/api/v1/
+/api/v2/
+/graphql
+/graphiql
+/swagger.json
+/swagger.yaml
+/openapi.json
+/rest/api
+/soap/api
+/json/api
+
+# ========================
+# General Volumes
+# ========================
+/images/
+/img/
+/assets/
+/static/
+/media/
+/uploads/
+/files/
+/downloads/
+/docs/
+/documents/
+/backups/
+/tmp/
+/temp/
+/cache/
+/include/
+/includes/
+/lib/
+/libs/
+/scripts/
+/javascript/
+/js/
+/css/
+/styles/
+/fonts/
+
+# ========================
+# Server files
+# ========================
+/server-status
+/server-info
+/.php
+/.jsp
+/.do
+/.action
+/.asp
+/.aspx
+
+# ========================
+# Backup files for developers
+# ========================
+/old/
+/new/
+/temp/
+/tmp/
+/bak/
+/backup/
+/archive/
+/2019/
+/2020/
+/2021/
+/2022/
+/2023/
+/v1/
+/v2/
+/previous/
+
+# ========================
+# Operating system files
+# ========================
+/passwd
+/shadow
+/group
+/hosts
+/resolv.conf
+/ssh/known_hosts
+/ssh/config
+/.ssh/authorized_keys
+/.ssh/id_rsa
+/.ssh/id_rsa.pub
+/.bash_history
+/.profile
+/.bashrc
+/.bash_profile
+
+# ========================
+# Docker files
+# ========================
+/docker-compose.yml
+/Dockerfile
+/.dockerignore
+/docker-compose.yaml
+/docker-compose.override.yml
+
+# ========================
+# Kubernetes files
+# ========================
+/kustomization.yaml
+/deployment.yaml
+/service.yaml
+/values.yaml
+/helm-chart/values.yaml
+
+# ========================
+# Additional IDE files
+# ========================
+/.vscode/launch.json
+/.vscode/extensions.json
+/.idea/modules.xml
+/.idea/encodings.xml
+/.idea/compiler.xml
+/.idea/libraries
+/.project
+/.classpath
+/.settings
+
+# ========================
+# CI/CD files
+# ========================
+/.travis.yml
+/circleci/config.yml
+/.github/workflows/main.yml
+/.gitlab-ci.yml
+/Jenkinsfile
+/bitbucket-pipelines.yml
+/azure-pipelines.yml
+
+# ========================
+# Node.js files
+# ========================
+/package-lock.json
+/yarn.lock
+/node_modules/
+/npm-debug.log
+/yarn-error.log
+/.npmrc
+/.yarnrc
+/bower.json
+
+# ========================
+# java files
+# ========================
+/pom.xml
+/build.gradle
+/gradle.properties
+/settings.gradle
+/web.xml
+/applicationContext.xml
+/spring-config.xml
+
+# ========================
+# python files
+# ========================
+/requirements.txt
+/setup.py
+/Pipfile
+/Pipfile.lock
+/__pycache__/
+/venv/
+/.python-version
+
+# ========================
+# Ruby files
+# ========================
+/Gemfile.lock
+/config.ru
+/Rakefile
+/.ruby-version
+/.ruby-gemset
+
+# ========================
+# Additional PHP files
+# ========================
+/info.php
+/phpinfo.php
+/test.php
+/example.php
+/demo.php
+/config/database.php
+/config/settings.php
+/config/constants.php
+
+# ========================
+# ASP.NET files
+# ========================
+/web.config
+/Global.asax
+/Web.Debug.config
+/Web.Release.config
+/App_Data/
+/Bin/
+/Views/Web.config
+
+# ========================
+# Various files
+# ========================
+/health
+/healthcheck
+/status
+/metrics
+/actuator/health
+/version
+/info
+/config.js
+/settings.js
+/constants.js
